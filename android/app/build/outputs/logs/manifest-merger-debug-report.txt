@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/35fd1994a3ce9bc30832de772a68d196/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/22509bf4d418da145e4370fcf5464d04/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/8c204812d4ea99b2af5117f90bc5a52e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/2676448b6b2fd4bfa722e8dd76a4399d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/877760337c52d23aebcae3a35bd803a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/69c126d33bf751a89d2130aab17764f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/7e4a60e4bff0266011f83b418c27766a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/9a75b2df420e872533a1d3c65c777ea6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a36020a7fce678aaa4f290f6ad90c7dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/92d4ecd9085b055245bb4e192876ff5f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de8905862c56c03f67a04fb39f703a7a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a477422fc96b036cf243662b42046fb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/cd0b4bee9ba676e9d26b6a3b0b42a310/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e4c247cb7c6bf75ddc16be5a4c6bd3c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/fbc953eede6d049706e04c5dcf4f7ad4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/165414cc48679066506c3c124718396b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/c1bc324d63ee3e849e428102fe8f7303/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/56e97119ffaed9c8872815d3559157b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e0c8d8da4c5bf844eb9caa437856259a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bfe83d5f752921fa6767cfeaf14707b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d1130ff3ecf7ce8996b357db8760c443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/12efc320d2896bc770d65d06a16e6dc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/627c87e97cd8f02063eb4aade8655ed8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bb0fb1974a82a46e461a5a3ada5f5ad9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/b124d201e0f1d045e18cc09e592e9821/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1b8518d66aa4a8caef06c38715d131a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/40705dd235e4ea28f10a930f9bce9185/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/51521c40117c8e4beaf08ad0a05d7bef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/95e14561eba28eef8f72e1bfff46f3d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/85592a1f2a83293048e38d270ed01276/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d214d2d2a6c37a19b05ba110b47f261a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/903c36df257b2695718fba4e7b2f21d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de46b16759ac6d50a8d6307580c78baa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/adc30bb341a660e9e57f727d2edd0560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1160d24dab87c2345252d34e8fd68d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/49f2617df366a677176a85dcc05671d7/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/35fd1994a3ce9bc30832de772a68d196/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/35fd1994a3ce9bc30832de772a68d196/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de8905862c56c03f67a04fb39f703a7a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de8905862c56c03f67a04fb39f703a7a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/b124d201e0f1d045e18cc09e592e9821/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/b124d201e0f1d045e18cc09e592e9821/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/35fd1994a3ce9bc30832de772a68d196/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/35fd1994a3ce9bc30832de772a68d196/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/22509bf4d418da145e4370fcf5464d04/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/22509bf4d418da145e4370fcf5464d04/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/8c204812d4ea99b2af5117f90bc5a52e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/8c204812d4ea99b2af5117f90bc5a52e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/2676448b6b2fd4bfa722e8dd76a4399d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/2676448b6b2fd4bfa722e8dd76a4399d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/877760337c52d23aebcae3a35bd803a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/877760337c52d23aebcae3a35bd803a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/69c126d33bf751a89d2130aab17764f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/69c126d33bf751a89d2130aab17764f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/7e4a60e4bff0266011f83b418c27766a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/7e4a60e4bff0266011f83b418c27766a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/9a75b2df420e872533a1d3c65c777ea6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/9a75b2df420e872533a1d3c65c777ea6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a36020a7fce678aaa4f290f6ad90c7dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a36020a7fce678aaa4f290f6ad90c7dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/92d4ecd9085b055245bb4e192876ff5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/92d4ecd9085b055245bb4e192876ff5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de8905862c56c03f67a04fb39f703a7a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de8905862c56c03f67a04fb39f703a7a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a477422fc96b036cf243662b42046fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/a477422fc96b036cf243662b42046fb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/cd0b4bee9ba676e9d26b6a3b0b42a310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/cd0b4bee9ba676e9d26b6a3b0b42a310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e4c247cb7c6bf75ddc16be5a4c6bd3c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e4c247cb7c6bf75ddc16be5a4c6bd3c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/fbc953eede6d049706e04c5dcf4f7ad4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/fbc953eede6d049706e04c5dcf4f7ad4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/165414cc48679066506c3c124718396b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/165414cc48679066506c3c124718396b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/c1bc324d63ee3e849e428102fe8f7303/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/c1bc324d63ee3e849e428102fe8f7303/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/56e97119ffaed9c8872815d3559157b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/56e97119ffaed9c8872815d3559157b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e0c8d8da4c5bf844eb9caa437856259a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/e0c8d8da4c5bf844eb9caa437856259a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bfe83d5f752921fa6767cfeaf14707b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bfe83d5f752921fa6767cfeaf14707b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d1130ff3ecf7ce8996b357db8760c443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d1130ff3ecf7ce8996b357db8760c443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/12efc320d2896bc770d65d06a16e6dc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/12efc320d2896bc770d65d06a16e6dc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/627c87e97cd8f02063eb4aade8655ed8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/627c87e97cd8f02063eb4aade8655ed8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bb0fb1974a82a46e461a5a3ada5f5ad9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/bb0fb1974a82a46e461a5a3ada5f5ad9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/41f85d3bcb58d9767ee7df9313eb5e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/b124d201e0f1d045e18cc09e592e9821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/b124d201e0f1d045e18cc09e592e9821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1b8518d66aa4a8caef06c38715d131a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1b8518d66aa4a8caef06c38715d131a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/40705dd235e4ea28f10a930f9bce9185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/40705dd235e4ea28f10a930f9bce9185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/51521c40117c8e4beaf08ad0a05d7bef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/51521c40117c8e4beaf08ad0a05d7bef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/95e14561eba28eef8f72e1bfff46f3d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/95e14561eba28eef8f72e1bfff46f3d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/85592a1f2a83293048e38d270ed01276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/85592a1f2a83293048e38d270ed01276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d214d2d2a6c37a19b05ba110b47f261a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/d214d2d2a6c37a19b05ba110b47f261a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/903c36df257b2695718fba4e7b2f21d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/903c36df257b2695718fba4e7b2f21d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de46b16759ac6d50a8d6307580c78baa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/de46b16759ac6d50a8d6307580c78baa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/adc30bb341a660e9e57f727d2edd0560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/adc30bb341a660e9e57f727d2edd0560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1160d24dab87c2345252d34e8fd68d41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/1160d24dab87c2345252d34e8fd68d41/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/49f2617df366a677176a85dcc05671d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/shangshangningyue/.gradle/caches/transforms-2/files-2.1/49f2617df366a677176a85dcc05671d7/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:22-75

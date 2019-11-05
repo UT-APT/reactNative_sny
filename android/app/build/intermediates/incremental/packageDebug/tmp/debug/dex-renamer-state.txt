@@ -1,0 +1,4 @@
+#Sun Nov 03 01:57:31 CDT 2019
+base.0=/Users/shangshangningyue/Desktop/learning_in_ut/apt/android_app/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
